@@ -1,0 +1,25 @@
+# -- Markup --
+# These settings are required for the theme to function.
+
+[goldmark]
+[goldmark.renderer]
+  unsafe = true
+
+[highlight]
+  noClasses = true
+  style = 'xcode-dark'
+  lineNoStart = 1
+  lineNos = true
+  tabWidth = 4
+  anchorLineNos = false
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ''
+  hl_inline = false
+  lineAnchors = ''
+  lineNumbersInTable = false
+  noHl = false
+
+[tableOfContents]
+  startLevel = 2
+  endLevel = 4
