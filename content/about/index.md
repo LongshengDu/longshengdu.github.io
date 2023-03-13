@@ -18,7 +18,7 @@ My hobbies include drinking coffee, hanging out with friends, traveling and lear
     >}}
 
 As a software engineer, my main interests lie in HPC and system softwares, especially compilers. I enjoy exploring how things work in a computer system form softwares to microarchitectures. My recent projects involving low level AI/ML framworks, e.g. [oneDNN Graph Compiler](https://oneapi-src.github.io/oneDNN/dev_guide_graph_compiler.html).  
-My professional career started at 2018, I have **<span style="color:#d946ef">{{< years >}} years</span>** of experence in software developing as of today😏, currently working at Intel Asia-Pacific R&D Center, based in Shanghai.
+My professional career started at 2018, I have **<span style="color:#d946ef">{{< years >}}</span>** of experence in software developing as of today😏, currently working at Intel Asia-Pacific R&D Center, based in Shanghai.
 
 {{< figure
     src="hongkou.jpg"
