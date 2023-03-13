@@ -1,8 +1,6 @@
 <script>
-    // old/cur dates to two vars
     var date0 = new Date("May/01/2018");
     var date1 = new Date();
-    // calculate the years between two dates
     var diff_time = date1.getTime() - date0.getTime();
     var diff_year = diff_time / (1000 * 3600 * 24 * 365.2422);
     document.write(diff_year.toFixed(2))
